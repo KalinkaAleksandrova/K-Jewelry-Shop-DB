@@ -1,4 +1,7 @@
 K jewelry shop database
-This repository is showing my first steps with db for imaginary jewelry shop.
+------------------------
 
+The database "Jewelry.accbd" is about a jewelry store and was created with MS Access.
+ 
 
+The conceptual design of database:
