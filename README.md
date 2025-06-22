@@ -28,3 +28,7 @@ qryEmployees Master jeweler -> information for senior jewelers(name,last name, p
 qrySelect gemstones -> a window pop up in which we can enter the crystal we want, to show us all the information about all crystals with that name
 
 qrySelect material -> a window pop up in which we can enter the material we want, to show us all the information about all materials with that base name
+
+Forms:
+ frmMain menu -> contains the company logo, as well as buttons to add:
+
