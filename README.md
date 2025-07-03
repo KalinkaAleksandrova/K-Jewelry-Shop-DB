@@ -46,3 +46,7 @@ Forms:
 
 Reports:
 
+rptAll products ->made from the table "Products", contain information about all products
+
+rptAll employees ->made from the table "Employees"contain information about all employees 
+
