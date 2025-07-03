@@ -1,7 +1,8 @@
 K jewelry shop database
 ------------------------
 
-The database "Jewelry.accbd" is about a jewelry store and was created with MS Access. 
+This repository contains a Microsoft Access database and exported table data.
+-Note: GitHub may not preview Jewelry-store.accdb file. Download and open with Microsoft Access.
 
  
 Normalization of the database:
