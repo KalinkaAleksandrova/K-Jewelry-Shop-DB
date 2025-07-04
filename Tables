@@ -1,8 +1,0 @@
-CREATE TABLE Employees (
-    EmployeeID INT PRIMARY KEY,
-    FirstName VARCHAR(50),
-    LastName VARCHAR(50),
-    JobPosition VARCHAR(100),
-    TelephoneNumber VARCHAR(20)
-);
-
